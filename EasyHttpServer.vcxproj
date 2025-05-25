@@ -127,6 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="EasyHttpServerCommon.c" />
+    <ClCompile Include="EasyHttpServerEpoll.c" />
+    <ClCompile Include="EasyHttpServerLibevent.c" />
+    <ClCompile Include="EasyHttpServerThread.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>

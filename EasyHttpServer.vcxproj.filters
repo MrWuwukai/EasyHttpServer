@@ -18,6 +18,18 @@
     <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EasyHttpServerEpoll.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyHttpServerCommon.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyHttpServerThread.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EasyHttpServerLibevent.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="HTMLPage.htm">
